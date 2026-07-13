@@ -1,0 +1,91 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "commit-push-comments",
+			"type": "shell",
+			"command": "git",
+			"args": [
+				"add",
+				"A2/scripts/embedCorpus.js;",
+				"git",
+				"commit",
+				"-m",
+				"docs(a2): add comments to embedding script;",
+				"git",
+				"push",
+				"origin",
+				"main;",
+				"git",
+				"status",
+				"--short"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "commit-push-comments-fixed",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-NoProfile",
+				"-Command",
+				"Set-Location 'd:\\sabicore-assessment'; git add A2/scripts/embedCorpus.js; git commit -m \"docs(a2): add comments to embedding script\"; git push origin main; git log -1 --pretty=format:\"%h | %an <%ae> | %s\"; git status --short"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "git-add-embed-comments",
+			"type": "shell",
+			"command": "git",
+			"args": [
+				"add",
+				"A2/scripts/embedCorpus.js"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "git-commit-embed-comments",
+			"type": "shell",
+			"command": "git",
+			"args": [
+				"commit",
+				"-m",
+				"docs(a2): add comments to embedding script"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "git-push-main",
+			"type": "shell",
+			"command": "git",
+			"args": [
+				"push",
+				"origin",
+				"main"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "git-verify-final",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-NoProfile",
+				"-Command",
+				"Set-Location 'd:\\sabicore-assessment'; git log -1 --pretty=fuller; git status --short"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "verify-b1-root-route",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-NoProfile",
+				"-Command",
+				"Set-Location 'd:\\sabicore-assessment\\B1'; node --check index.js; $job = Start-Job -ScriptBlock { Set-Location 'd:\\sabicore-assessment\\B1'; node index.js }; Start-Sleep -Seconds 2; try { $resp = Invoke-WebRequest -UseBasicParsing http://localhost:3000/; Write-Output ('STATUS=' + $resp.StatusCode); Write-Output ('BODY=' + $resp.Content) } finally { Stop-Job $job -ErrorAction SilentlyContinue; Remove-Job $job -ErrorAction SilentlyContinue }"
+			],
+			"isBackground": false
+		}
+	]
+}

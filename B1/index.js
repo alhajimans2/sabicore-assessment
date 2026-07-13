@@ -9,6 +9,18 @@ const app = express();
 const prisma = new PrismaClient();
 const upload = multer({ dest: 'uploads/' });
 
+app.get('/', (req, res) => {
+  return res.status(200).json({
+    service: 'B1 Document Ingestion API',
+    status: 'ok',
+    endpoints: ['POST /ingest', 'GET /health'],
+  });
+});
+
+app.get('/health', (req, res) => {
+  return res.status(200).json({ status: 'ok' });
+});
+
 app.post('/ingest', upload.single('pdf'), async (req, res) => {
   try {
     if (!req.file) {
