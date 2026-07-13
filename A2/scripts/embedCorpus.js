@@ -12,6 +12,9 @@ async function main() {
   const raw = fs.readFileSync(dataPath, 'utf8');
   const corpus = JSON.parse(raw);
 
+  // Reset corpus rows so repeated runs do not create duplicates.
+  await prisma.abstract.deleteMany();
+
   // Embed each record and persist it in the database.
   for (const item of corpus) {
     // Concatenate key text fields to represent the document semantically.
@@ -30,6 +33,8 @@ async function main() {
 
     console.log(`Embedded: ${item.title}`);
   }
+
+  console.log(`Embedded ${corpus.length} abstracts.`);
 }
 
 main()

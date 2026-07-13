@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "embed": "node scripts/embedCorpus.js",
+    "evaluate": "node scripts/evaluateSearch.js",
     "prisma:generate": "prisma generate",
     "prisma:push": "prisma db push"
   },

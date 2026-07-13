@@ -17,7 +17,7 @@ app.get('/search', async (req, res) => {
 
     const queryEmbedding = await getEmbedding(q);
     const abstracts = await prisma.abstract.findMany();
-    const ranked = rankBySimilarity(queryEmbedding, abstracts, 10);
+    const ranked = rankBySimilarity(queryEmbedding, abstracts, 5);
 
     return res.json({ query: q, count: ranked.length, results: ranked });
   } catch (error) {
