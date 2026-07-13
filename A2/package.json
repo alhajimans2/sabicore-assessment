@@ -1,0 +1,21 @@
+{
+  "name": "a2",
+  "version": "1.0.0",
+  "description": "A2 Semantic Search",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "embed": "node scripts/embedCorpus.js",
+    "prisma:generate": "prisma generate",
+    "prisma:push": "prisma db push"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.19.3",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "openai": "^6.46.0"
+  },
+  "devDependencies": {
+    "prisma": "^6.19.3"
+  }
+}

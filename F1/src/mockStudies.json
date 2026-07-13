@@ -1,0 +1,402 @@
+﻿[
+    {
+        "id":  1,
+        "title":  "Study of Deep Learning Models in Medicine Volume 1",
+        "authors":  "Author A. 1, Author B. 1",
+        "year":  2021,
+        "abstract":  "This is the abstract for study number 1. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  2,
+        "title":  "Study of Deep Learning Models in Medicine Volume 2",
+        "authors":  "Author A. 2, Author B. 2",
+        "year":  2022,
+        "abstract":  "This is the abstract for study number 2. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  3,
+        "title":  "Study of Deep Learning Models in Medicine Volume 3",
+        "authors":  "Author A. 3, Author B. 3",
+        "year":  2023,
+        "abstract":  "This is the abstract for study number 3. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  4,
+        "title":  "Study of Deep Learning Models in Medicine Volume 4",
+        "authors":  "Author A. 4, Author B. 4",
+        "year":  2024,
+        "abstract":  "This is the abstract for study number 4. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  5,
+        "title":  "Study of Deep Learning Models in Medicine Volume 5",
+        "authors":  "Author A. 5, Author B. 5",
+        "year":  2020,
+        "abstract":  "This is the abstract for study number 5. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  6,
+        "title":  "Study of Deep Learning Models in Medicine Volume 6",
+        "authors":  "Author A. 6, Author B. 6",
+        "year":  2021,
+        "abstract":  "This is the abstract for study number 6. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  7,
+        "title":  "Study of Deep Learning Models in Medicine Volume 7",
+        "authors":  "Author A. 7, Author B. 7",
+        "year":  2022,
+        "abstract":  "This is the abstract for study number 7. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  8,
+        "title":  "Study of Deep Learning Models in Medicine Volume 8",
+        "authors":  "Author A. 8, Author B. 8",
+        "year":  2023,
+        "abstract":  "This is the abstract for study number 8. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  9,
+        "title":  "Study of Deep Learning Models in Medicine Volume 9",
+        "authors":  "Author A. 9, Author B. 9",
+        "year":  2024,
+        "abstract":  "This is the abstract for study number 9. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  10,
+        "title":  "Study of Deep Learning Models in Medicine Volume 10",
+        "authors":  "Author A. 10, Author B. 10",
+        "year":  2020,
+        "abstract":  "This is the abstract for study number 10. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  11,
+        "title":  "Study of Deep Learning Models in Medicine Volume 11",
+        "authors":  "Author A. 11, Author B. 11",
+        "year":  2021,
+        "abstract":  "This is the abstract for study number 11. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  12,
+        "title":  "Study of Deep Learning Models in Medicine Volume 12",
+        "authors":  "Author A. 12, Author B. 12",
+        "year":  2022,
+        "abstract":  "This is the abstract for study number 12. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  13,
+        "title":  "Study of Deep Learning Models in Medicine Volume 13",
+        "authors":  "Author A. 13, Author B. 13",
+        "year":  2023,
+        "abstract":  "This is the abstract for study number 13. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  14,
+        "title":  "Study of Deep Learning Models in Medicine Volume 14",
+        "authors":  "Author A. 14, Author B. 14",
+        "year":  2024,
+        "abstract":  "This is the abstract for study number 14. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  15,
+        "title":  "Study of Deep Learning Models in Medicine Volume 15",
+        "authors":  "Author A. 15, Author B. 15",
+        "year":  2020,
+        "abstract":  "This is the abstract for study number 15. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  16,
+        "title":  "Study of Deep Learning Models in Medicine Volume 16",
+        "authors":  "Author A. 16, Author B. 16",
+        "year":  2021,
+        "abstract":  "This is the abstract for study number 16. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  17,
+        "title":  "Study of Deep Learning Models in Medicine Volume 17",
+        "authors":  "Author A. 17, Author B. 17",
+        "year":  2022,
+        "abstract":  "This is the abstract for study number 17. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  18,
+        "title":  "Study of Deep Learning Models in Medicine Volume 18",
+        "authors":  "Author A. 18, Author B. 18",
+        "year":  2023,
+        "abstract":  "This is the abstract for study number 18. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  19,
+        "title":  "Study of Deep Learning Models in Medicine Volume 19",
+        "authors":  "Author A. 19, Author B. 19",
+        "year":  2024,
+        "abstract":  "This is the abstract for study number 19. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  20,
+        "title":  "Study of Deep Learning Models in Medicine Volume 20",
+        "authors":  "Author A. 20, Author B. 20",
+        "year":  2020,
+        "abstract":  "This is the abstract for study number 20. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  21,
+        "title":  "Study of Deep Learning Models in Medicine Volume 21",
+        "authors":  "Author A. 21, Author B. 21",
+        "year":  2021,
+        "abstract":  "This is the abstract for study number 21. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  22,
+        "title":  "Study of Deep Learning Models in Medicine Volume 22",
+        "authors":  "Author A. 22, Author B. 22",
+        "year":  2022,
+        "abstract":  "This is the abstract for study number 22. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  23,
+        "title":  "Study of Deep Learning Models in Medicine Volume 23",
+        "authors":  "Author A. 23, Author B. 23",
+        "year":  2023,
+        "abstract":  "This is the abstract for study number 23. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  24,
+        "title":  "Study of Deep Learning Models in Medicine Volume 24",
+        "authors":  "Author A. 24, Author B. 24",
+        "year":  2024,
+        "abstract":  "This is the abstract for study number 24. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  25,
+        "title":  "Study of Deep Learning Models in Medicine Volume 25",
+        "authors":  "Author A. 25, Author B. 25",
+        "year":  2020,
+        "abstract":  "This is the abstract for study number 25. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  26,
+        "title":  "Study of Deep Learning Models in Medicine Volume 26",
+        "authors":  "Author A. 26, Author B. 26",
+        "year":  2021,
+        "abstract":  "This is the abstract for study number 26. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  27,
+        "title":  "Study of Deep Learning Models in Medicine Volume 27",
+        "authors":  "Author A. 27, Author B. 27",
+        "year":  2022,
+        "abstract":  "This is the abstract for study number 27. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  28,
+        "title":  "Study of Deep Learning Models in Medicine Volume 28",
+        "authors":  "Author A. 28, Author B. 28",
+        "year":  2023,
+        "abstract":  "This is the abstract for study number 28. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  29,
+        "title":  "Study of Deep Learning Models in Medicine Volume 29",
+        "authors":  "Author A. 29, Author B. 29",
+        "year":  2024,
+        "abstract":  "This is the abstract for study number 29. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  30,
+        "title":  "Study of Deep Learning Models in Medicine Volume 30",
+        "authors":  "Author A. 30, Author B. 30",
+        "year":  2020,
+        "abstract":  "This is the abstract for study number 30. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  31,
+        "title":  "Study of Deep Learning Models in Medicine Volume 31",
+        "authors":  "Author A. 31, Author B. 31",
+        "year":  2021,
+        "abstract":  "This is the abstract for study number 31. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  32,
+        "title":  "Study of Deep Learning Models in Medicine Volume 32",
+        "authors":  "Author A. 32, Author B. 32",
+        "year":  2022,
+        "abstract":  "This is the abstract for study number 32. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  33,
+        "title":  "Study of Deep Learning Models in Medicine Volume 33",
+        "authors":  "Author A. 33, Author B. 33",
+        "year":  2023,
+        "abstract":  "This is the abstract for study number 33. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  34,
+        "title":  "Study of Deep Learning Models in Medicine Volume 34",
+        "authors":  "Author A. 34, Author B. 34",
+        "year":  2024,
+        "abstract":  "This is the abstract for study number 34. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  35,
+        "title":  "Study of Deep Learning Models in Medicine Volume 35",
+        "authors":  "Author A. 35, Author B. 35",
+        "year":  2020,
+        "abstract":  "This is the abstract for study number 35. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  36,
+        "title":  "Study of Deep Learning Models in Medicine Volume 36",
+        "authors":  "Author A. 36, Author B. 36",
+        "year":  2021,
+        "abstract":  "This is the abstract for study number 36. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  37,
+        "title":  "Study of Deep Learning Models in Medicine Volume 37",
+        "authors":  "Author A. 37, Author B. 37",
+        "year":  2022,
+        "abstract":  "This is the abstract for study number 37. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  38,
+        "title":  "Study of Deep Learning Models in Medicine Volume 38",
+        "authors":  "Author A. 38, Author B. 38",
+        "year":  2023,
+        "abstract":  "This is the abstract for study number 38. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  39,
+        "title":  "Study of Deep Learning Models in Medicine Volume 39",
+        "authors":  "Author A. 39, Author B. 39",
+        "year":  2024,
+        "abstract":  "This is the abstract for study number 39. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  40,
+        "title":  "Study of Deep Learning Models in Medicine Volume 40",
+        "authors":  "Author A. 40, Author B. 40",
+        "year":  2020,
+        "abstract":  "This is the abstract for study number 40. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  41,
+        "title":  "Study of Deep Learning Models in Medicine Volume 41",
+        "authors":  "Author A. 41, Author B. 41",
+        "year":  2021,
+        "abstract":  "This is the abstract for study number 41. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  42,
+        "title":  "Study of Deep Learning Models in Medicine Volume 42",
+        "authors":  "Author A. 42, Author B. 42",
+        "year":  2022,
+        "abstract":  "This is the abstract for study number 42. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  43,
+        "title":  "Study of Deep Learning Models in Medicine Volume 43",
+        "authors":  "Author A. 43, Author B. 43",
+        "year":  2023,
+        "abstract":  "This is the abstract for study number 43. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  44,
+        "title":  "Study of Deep Learning Models in Medicine Volume 44",
+        "authors":  "Author A. 44, Author B. 44",
+        "year":  2024,
+        "abstract":  "This is the abstract for study number 44. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  45,
+        "title":  "Study of Deep Learning Models in Medicine Volume 45",
+        "authors":  "Author A. 45, Author B. 45",
+        "year":  2020,
+        "abstract":  "This is the abstract for study number 45. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  46,
+        "title":  "Study of Deep Learning Models in Medicine Volume 46",
+        "authors":  "Author A. 46, Author B. 46",
+        "year":  2021,
+        "abstract":  "This is the abstract for study number 46. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  47,
+        "title":  "Study of Deep Learning Models in Medicine Volume 47",
+        "authors":  "Author A. 47, Author B. 47",
+        "year":  2022,
+        "abstract":  "This is the abstract for study number 47. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  48,
+        "title":  "Study of Deep Learning Models in Medicine Volume 48",
+        "authors":  "Author A. 48, Author B. 48",
+        "year":  2023,
+        "abstract":  "This is the abstract for study number 48. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  49,
+        "title":  "Study of Deep Learning Models in Medicine Volume 49",
+        "authors":  "Author A. 49, Author B. 49",
+        "year":  2024,
+        "abstract":  "This is the abstract for study number 49. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    },
+    {
+        "id":  50,
+        "title":  "Study of Deep Learning Models in Medicine Volume 50",
+        "authors":  "Author A. 50, Author B. 50",
+        "year":  2020,
+        "abstract":  "This is the abstract for study number 50. It discusses various applications of artificial intelligence and machine learning models in modern clinical decision support systems and health informatics.",
+        "status":  "pending"
+    }
+]

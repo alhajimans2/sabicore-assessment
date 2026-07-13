@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Leveraging Self-supervised representation learning in Detecting adverse drug events using electronic health records (EHR)",
+    "authors": "H. Davis, T. Jones, E. Brown",
+    "year": 2024,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Self-supervised representation learning specifically tailored for detecting adverse drug events within electronic health records (EHR). Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2023 to 2024 timeline. Our results demonstrate that using Self-supervised representation learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "A Multi-site Evaluation of Self-supervised representation learning for Summarizing complex ehr notes in multisite intensive care databases",
+    "authors": "A. Johnson, J. Smith, M. Williams, C. Miller, H. Davis",
+    "year": 2019,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Self-supervised representation learning specifically tailored for summarizing complex EHR notes within multisite intensive care databases. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2018 to 2019 timeline. Our results demonstrate that using Self-supervised representation learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Retrieval-Augmented Generation (RAG) for Monitoring pediatric asthma severity: A Study on electronic health records (EHR)",
+    "authors": "H. Davis, M. Tanaka, G. Rodriguez, J. Smith, K. Garcia",
+    "year": 2023,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Retrieval-Augmented Generation (RAG) specifically tailored for monitoring pediatric asthma severity within electronic health records (EHR). Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2022 to 2023 timeline. Our results demonstrate that using Retrieval-Augmented Generation (RAG) yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Multi-task deep learning architectures for Early detection of sepsis onset: A Study on nursing handover notes",
+    "authors": "S. Patel, E. Brown, M. Williams",
+    "year": 2021,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Multi-task deep learning architectures specifically tailored for early detection of sepsis onset within nursing handover notes. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2020 to 2021 timeline. Our results demonstrate that using Multi-task deep learning architectures yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Leveraging Explainable AI models in Detecting adverse drug events using nursing handover notes",
+    "authors": "A. Johnson, M. Tanaka, B. Gomez, E. Brown",
+    "year": 2025,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Explainable AI models specifically tailored for detecting adverse drug events within nursing handover notes. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2024 to 2025 timeline. Our results demonstrate that using Explainable AI models yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "A Multi-site Evaluation of Explainable AI models for Detecting adverse drug events in multisite intensive care databases",
+    "authors": "M. Al-Farsi, C. Miller, M. Williams, A. Johnson",
+    "year": 2021,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Explainable AI models specifically tailored for detecting adverse drug events within multisite intensive care databases. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2020 to 2021 timeline. Our results demonstrate that using Explainable AI models yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Self-supervised representation learning for Modeling temporal clinical events: A Study on telehealth consultation transcripts",
+    "authors": "L. Nguyen, G. Rodriguez",
+    "year": 2019,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Self-supervised representation learning specifically tailored for modeling temporal clinical events within telehealth consultation transcripts. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2018 to 2019 timeline. Our results demonstrate that using Self-supervised representation learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Leveraging Weakly supervised deep neural networks in Automating clinical cohort selection using nursing handover notes",
+    "authors": "C. Miller, G. Rodriguez, M. Williams, K. Garcia",
+    "year": 2020,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Weakly supervised deep neural networks specifically tailored for automating clinical cohort selection within nursing handover notes. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2019 to 2020 timeline. Our results demonstrate that using Weakly supervised deep neural networks yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Enhancing Summarizing complex ehr notes via Retrieval-Augmented Generation (RAG) on radiology and pathology narratives",
+    "authors": "G. Rodriguez, B. Gomez, H. Davis, S. Patel, A. Johnson",
+    "year": 2020,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Retrieval-Augmented Generation (RAG) specifically tailored for summarizing complex EHR notes within radiology and pathology narratives. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2019 to 2020 timeline. Our results demonstrate that using Retrieval-Augmented Generation (RAG) yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Leveraging Federated Learning in Mapping non-standard clinical abbreviations using electronic health records (EHR)",
+    "authors": "G. Rodriguez, M. Williams, C. Miller, S. Patel, B. Gomez",
+    "year": 2025,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Federated Learning specifically tailored for mapping non-standard clinical abbreviations within electronic health records (EHR). Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2024 to 2025 timeline. Our results demonstrate that using Federated Learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Enhancing Identifying depression symptoms via Self-supervised representation learning on emergency department triage notes",
+    "authors": "G. Rodriguez, T. Jones, H. Davis",
+    "year": 2024,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Self-supervised representation learning specifically tailored for identifying depression symptoms within emergency department triage notes. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2023 to 2024 timeline. Our results demonstrate that using Self-supervised representation learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "A Multi-site Evaluation of Multi-task deep learning architectures for Tracking oncology stage progression in multisite intensive care databases",
+    "authors": "M. Al-Farsi, L. Nguyen, R. Kim, H. Davis, T. Jones",
+    "year": 2021,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Multi-task deep learning architectures specifically tailored for tracking oncology stage progression within multisite intensive care databases. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2020 to 2021 timeline. Our results demonstrate that using Multi-task deep learning architectures yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Application of Retrieval-Augmented Generation (RAG) for Identifying depression symptoms from unstructured clinical progress notes",
+    "authors": "T. Jones, K. Garcia",
+    "year": 2025,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Retrieval-Augmented Generation (RAG) specifically tailored for identifying depression symptoms within unstructured clinical progress notes. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2024 to 2025 timeline. Our results demonstrate that using Retrieval-Augmented Generation (RAG) yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Enhancing Early detection of sepsis onset via Self-supervised representation learning on de-identified clinical registries",
+    "authors": "K. Kovalenko, M. Tanaka, L. Dubois, G. Rodriguez, J. Smith",
+    "year": 2019,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Self-supervised representation learning specifically tailored for early detection of sepsis onset within de-identified clinical registries. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2018 to 2019 timeline. Our results demonstrate that using Self-supervised representation learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "A Multi-site Evaluation of Self-supervised representation learning for Summarizing complex ehr notes in unstructured clinical progress notes",
+    "authors": "S. Patel, E. Brown, Y. Chen, F. Rossi",
+    "year": 2024,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Self-supervised representation learning specifically tailored for summarizing complex EHR notes within unstructured clinical progress notes. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2023 to 2024 timeline. Our results demonstrate that using Self-supervised representation learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Leveraging Graph Neural Networks in Identifying depression symptoms using electronic health records (EHR)",
+    "authors": "L. Dubois, E. Brown, Y. Chen",
+    "year": 2024,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Graph Neural Networks specifically tailored for identifying depression symptoms within electronic health records (EHR). Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2023 to 2024 timeline. Our results demonstrate that using Graph Neural Networks yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Self-supervised representation learning for Tracking oncology stage progression: A Study on de-identified clinical registries",
+    "authors": "K. Garcia, B. Gomez, L. Dubois, J. Smith",
+    "year": 2020,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Self-supervised representation learning specifically tailored for tracking oncology stage progression within de-identified clinical registries. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2019 to 2020 timeline. Our results demonstrate that using Self-supervised representation learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Application of Instruction-tuned clinical LLMs for Estimating intensive care unit mortality from patient portal secure messages",
+    "authors": "Y. Chen, H. Davis, A. Johnson, M. Al-Farsi",
+    "year": 2019,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Instruction-tuned clinical LLMs specifically tailored for estimating intensive care unit mortality within patient portal secure messages. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2018 to 2019 timeline. Our results demonstrate that using Instruction-tuned clinical LLMs yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Enhancing Detecting adverse drug events via Instruction-tuned clinical LLMs on unstructured clinical progress notes",
+    "authors": "B. Gomez, T. Jones",
+    "year": 2024,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Instruction-tuned clinical LLMs specifically tailored for detecting adverse drug events within unstructured clinical progress notes. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2023 to 2024 timeline. Our results demonstrate that using Instruction-tuned clinical LLMs yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Graph Neural Networks for Automating clinical cohort selection: A Study on patient portal secure messages",
+    "authors": "L. Dubois, F. Rossi, C. Miller, B. Gomez",
+    "year": 2023,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Graph Neural Networks specifically tailored for automating clinical cohort selection within patient portal secure messages. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2022 to 2023 timeline. Our results demonstrate that using Graph Neural Networks yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Leveraging Multi-task deep learning architectures in Assessing cardiovascular disease onset using emergency department triage notes",
+    "authors": "L. Dubois, M. Tanaka, E. Brown, H. Davis, K. Kovalenko",
+    "year": 2024,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Multi-task deep learning architectures specifically tailored for assessing cardiovascular disease onset within emergency department triage notes. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2023 to 2024 timeline. Our results demonstrate that using Multi-task deep learning architectures yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "A Multi-site Evaluation of Large Language Models for Estimating intensive care unit mortality in electronic health records (EHR)",
+    "authors": "M. Al-Farsi, H. Davis, J. Smith",
+    "year": 2023,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Large Language Models specifically tailored for estimating intensive care unit mortality within electronic health records (EHR). Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2022 to 2023 timeline. Our results demonstrate that using Large Language Models yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Application of Large Language Models for Summarizing complex ehr notes from electronic health records (EHR)",
+    "authors": "S. Patel, M. Williams",
+    "year": 2020,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Large Language Models specifically tailored for summarizing complex EHR notes within electronic health records (EHR). Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2019 to 2020 timeline. Our results demonstrate that using Large Language Models yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Enhancing Modeling temporal clinical events via Retrieval-Augmented Generation (RAG) on telehealth consultation transcripts",
+    "authors": "B. Gomez, T. Jones, A. Schmidt",
+    "year": 2024,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Retrieval-Augmented Generation (RAG) specifically tailored for modeling temporal clinical events within telehealth consultation transcripts. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2023 to 2024 timeline. Our results demonstrate that using Retrieval-Augmented Generation (RAG) yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Enhancing Extracting drug-drug interactions via Federated Learning on patient portal secure messages",
+    "authors": "E. Brown, K. Kovalenko, F. Rossi",
+    "year": 2025,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Federated Learning specifically tailored for extracting drug-drug interactions within patient portal secure messages. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2024 to 2025 timeline. Our results demonstrate that using Federated Learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Application of Zero-Shot Learning frameworks for Early detection of sepsis onset from emergency department triage notes",
+    "authors": "A. Johnson, L. Nguyen",
+    "year": 2022,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Zero-Shot Learning frameworks specifically tailored for early detection of sepsis onset within emergency department triage notes. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2021 to 2022 timeline. Our results demonstrate that using Zero-Shot Learning frameworks yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Multi-task deep learning architectures for Estimating intensive care unit mortality: A Study on unstructured clinical progress notes",
+    "authors": "B. Gomez, M. Tanaka, T. Jones",
+    "year": 2020,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Multi-task deep learning architectures specifically tailored for estimating intensive care unit mortality within unstructured clinical progress notes. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2019 to 2020 timeline. Our results demonstrate that using Multi-task deep learning architectures yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Explainable AI models for Extracting social determinants of health (sdoh): A Study on telehealth consultation transcripts",
+    "authors": "M. Tanaka, B. Gomez",
+    "year": 2022,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Explainable AI models specifically tailored for extracting social determinants of health (SDOH) within telehealth consultation transcripts. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2021 to 2022 timeline. Our results demonstrate that using Explainable AI models yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Application of Large Language Models for Predicting patient readmission risk from multisite intensive care databases",
+    "authors": "H. Davis, K. Garcia",
+    "year": 2025,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Large Language Models specifically tailored for predicting patient readmission risk within multisite intensive care databases. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2024 to 2025 timeline. Our results demonstrate that using Large Language Models yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Enhancing Identifying depression symptoms via Explainable AI models on patient portal secure messages",
+    "authors": "K. Garcia, L. Nguyen",
+    "year": 2020,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Explainable AI models specifically tailored for identifying depression symptoms within patient portal secure messages. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2019 to 2020 timeline. Our results demonstrate that using Explainable AI models yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Enhancing Early detection of sepsis onset via Transformer-based models on telehealth consultation transcripts",
+    "authors": "F. Rossi, B. Gomez, A. Schmidt, T. Jones",
+    "year": 2025,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Transformer-based models specifically tailored for early detection of sepsis onset within telehealth consultation transcripts. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2024 to 2025 timeline. Our results demonstrate that using Transformer-based models yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "A Multi-site Evaluation of Federated Learning for Assessing cardiovascular disease onset in radiology and pathology narratives",
+    "authors": "S. Patel, A. Johnson",
+    "year": 2019,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Federated Learning specifically tailored for assessing cardiovascular disease onset within radiology and pathology narratives. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2018 to 2019 timeline. Our results demonstrate that using Federated Learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "A Multi-site Evaluation of Transformer-based models for Monitoring pediatric asthma severity in patient portal secure messages",
+    "authors": "A. Johnson, L. Dubois, M. Williams",
+    "year": 2023,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Transformer-based models specifically tailored for monitoring pediatric asthma severity within patient portal secure messages. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2022 to 2023 timeline. Our results demonstrate that using Transformer-based models yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Graph Neural Networks for Detecting adverse drug events: A Study on de-identified clinical registries",
+    "authors": "E. Brown, M. Al-Farsi, H. Davis, A. Johnson, M. Williams",
+    "year": 2019,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Graph Neural Networks specifically tailored for detecting adverse drug events within de-identified clinical registries. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2018 to 2019 timeline. Our results demonstrate that using Graph Neural Networks yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "A Multi-site Evaluation of Explainable AI models for Automating clinical cohort selection in de-identified clinical registries",
+    "authors": "G. Rodriguez, C. Miller, S. Patel, H. Davis",
+    "year": 2023,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Explainable AI models specifically tailored for automating clinical cohort selection within de-identified clinical registries. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2022 to 2023 timeline. Our results demonstrate that using Explainable AI models yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Leveraging Contrastive Learning in Early detection of sepsis onset using discharge summaries",
+    "authors": "S. Patel, M. Williams, J. Smith, M. Tanaka, E. Brown",
+    "year": 2024,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Contrastive Learning specifically tailored for early detection of sepsis onset within discharge summaries. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2023 to 2024 timeline. Our results demonstrate that using Contrastive Learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Leveraging Large Language Models in Tracking oncology stage progression using radiology and pathology narratives",
+    "authors": "R. Kim, M. Williams, H. Davis",
+    "year": 2023,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Large Language Models specifically tailored for tracking oncology stage progression within radiology and pathology narratives. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2022 to 2023 timeline. Our results demonstrate that using Large Language Models yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "A Multi-site Evaluation of Zero-Shot Learning frameworks for Assessing cardiovascular disease onset in discharge summaries",
+    "authors": "K. Kovalenko, L. Dubois, J. Smith, Y. Chen",
+    "year": 2022,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Zero-Shot Learning frameworks specifically tailored for assessing cardiovascular disease onset within discharge summaries. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2021 to 2022 timeline. Our results demonstrate that using Zero-Shot Learning frameworks yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Application of Self-supervised representation learning for Detecting adverse drug events from discharge summaries",
+    "authors": "B. Gomez, T. Jones",
+    "year": 2021,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Self-supervised representation learning specifically tailored for detecting adverse drug events within discharge summaries. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2020 to 2021 timeline. Our results demonstrate that using Self-supervised representation learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Leveraging Contrastive Learning in Assessing cardiovascular disease onset using de-identified clinical registries",
+    "authors": "G. Rodriguez, L. Dubois, A. Schmidt",
+    "year": 2020,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Contrastive Learning specifically tailored for assessing cardiovascular disease onset within de-identified clinical registries. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2019 to 2020 timeline. Our results demonstrate that using Contrastive Learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Enhancing Mapping non-standard clinical abbreviations via Contrastive Learning on electronic health records (EHR)",
+    "authors": "A. Johnson, J. Smith, S. Patel, T. Jones",
+    "year": 2019,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Contrastive Learning specifically tailored for mapping non-standard clinical abbreviations within electronic health records (EHR). Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2018 to 2019 timeline. Our results demonstrate that using Contrastive Learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Enhancing Assessing cardiovascular disease onset via Self-supervised representation learning on discharge summaries",
+    "authors": "B. Gomez, J. Smith, E. Brown, M. Williams, T. Jones",
+    "year": 2024,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Self-supervised representation learning specifically tailored for assessing cardiovascular disease onset within discharge summaries. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2023 to 2024 timeline. Our results demonstrate that using Self-supervised representation learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "A Multi-site Evaluation of Retrieval-Augmented Generation (RAG) for Predicting patient readmission risk in nursing handover notes",
+    "authors": "F. Rossi, T. Jones, A. Johnson",
+    "year": 2023,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Retrieval-Augmented Generation (RAG) specifically tailored for predicting patient readmission risk within nursing handover notes. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2022 to 2023 timeline. Our results demonstrate that using Retrieval-Augmented Generation (RAG) yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Contrastive Learning for Estimating intensive care unit mortality: A Study on electronic health records (EHR)",
+    "authors": "E. Brown, R. Kim, B. Gomez",
+    "year": 2021,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Contrastive Learning specifically tailored for estimating intensive care unit mortality within electronic health records (EHR). Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2020 to 2021 timeline. Our results demonstrate that using Contrastive Learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Explainable AI models for Monitoring pediatric asthma severity: A Study on discharge summaries",
+    "authors": "F. Rossi, J. Smith, K. Garcia",
+    "year": 2020,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Explainable AI models specifically tailored for monitoring pediatric asthma severity within discharge summaries. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2019 to 2020 timeline. Our results demonstrate that using Explainable AI models yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Multi-task deep learning architectures for Estimating intensive care unit mortality: A Study on emergency department triage notes",
+    "authors": "K. Garcia, E. Brown, L. Nguyen, A. Johnson",
+    "year": 2025,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Multi-task deep learning architectures specifically tailored for estimating intensive care unit mortality within emergency department triage notes. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2024 to 2025 timeline. Our results demonstrate that using Multi-task deep learning architectures yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Enhancing Modeling temporal clinical events via Weakly supervised deep neural networks on radiology and pathology narratives",
+    "authors": "Y. Chen, H. Davis, M. Al-Farsi, J. Smith",
+    "year": 2025,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Weakly supervised deep neural networks specifically tailored for modeling temporal clinical events within radiology and pathology narratives. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2024 to 2025 timeline. Our results demonstrate that using Weakly supervised deep neural networks yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "Leveraging Self-supervised representation learning in Modeling temporal clinical events using emergency department triage notes",
+    "authors": "G. Rodriguez, R. Kim",
+    "year": 2021,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Self-supervised representation learning specifically tailored for modeling temporal clinical events within emergency department triage notes. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2020 to 2021 timeline. Our results demonstrate that using Self-supervised representation learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "A Multi-site Evaluation of Self-supervised representation learning for Tracking oncology stage progression in emergency department triage notes",
+    "authors": "J. Smith, E. Brown, G. Rodriguez, K. Garcia",
+    "year": 2024,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Self-supervised representation learning specifically tailored for tracking oncology stage progression within emergency department triage notes. Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2023 to 2024 timeline. Our results demonstrate that using Self-supervised representation learning yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  },
+  {
+    "title": "A Multi-site Evaluation of Instruction-tuned clinical LLMs for Assessing cardiovascular disease onset in electronic health records (EHR)",
+    "authors": "R. Kim, S. Patel, F. Rossi, L. Dubois, E. Brown",
+    "year": 2019,
+    "abstract": "In recent years, the clinical domain has seen an exponential rise in unstructured text data. This study investigates the efficacy of Instruction-tuned clinical LLMs specifically tailored for assessing cardiovascular disease onset within electronic health records (EHR). Historically, manual extraction of such details has been resource-intensive and error-prone. We processed a comprehensive corpus from datasets spanning the 2018 to 2019 timeline. Our results demonstrate that using Instruction-tuned clinical LLMs yields significant improvements over traditional baseline methods, achieving state-of-the-art performance in F1-score and robustness. Furthermore, error analysis reveals that handling domain-specific terminology remains a critical challenge. This work highlights the potential of deploying clinical AI systems in real-world healthcare settings to assist decision support and research trials."
+  }
+]
